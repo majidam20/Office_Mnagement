@@ -1,0 +1,498 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{5EE65BDB-A2AA-4CFE-9E82-11A5431D793B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>e_archive</RootNamespace>
+    <AssemblyName>e_archive</AssemblyName>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Enterprise.Framework, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.InfoStore, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\WINDOWS\assembly\GAC_MSIL\System.Web.Services\2.0.0.0__b03f5f7f11d50a3a\System.Web.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DAL\DAL2.cs" />
+    <Compile Include="DAL\DAL.cs" />
+    <Compile Include="LOL\albumclass.cs" />
+    <Compile Include="LOL\bailmentclass.cs" />
+    <Compile Include="LOL\bookclass.cs" />
+    <Compile Include="LOL\cd_dvdclass.cs" />
+    <Compile Include="LOL\conventionclass.cs" />
+    <Compile Include="LOL\LDBclass.cs" />
+    <Compile Include="LOL\global.cs" />
+    <Compile Include="LOL\magazineclass.cs" />
+    <Compile Include="LOL\mapclass.cs" />
+    <Compile Include="LOL\partsclass.cs" />
+    <Compile Include="LOL\PersianDateClass.cs" />
+    <Compile Include="LOL\ReloadMode.cs" />
+    <Compile Include="LOL\repertoryclass.cs" />
+    <Compile Include="LOL\reportclass.cs" />
+    <Compile Include="LOL\resumeclass.cs" />
+    <Compile Include="LOL\retclass.cs" />
+    <Compile Include="LOL\searchclass.cs" />
+    <Compile Include="LOL\type_modeclass.cs" />
+    <Compile Include="LOL\usersclass.cs" />
+    <Compile Include="LOL\zuncanclass.cs" />
+    <Compile Include="UIL\bailment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIL\bailment.designer.cs">
+      <DependentUpon>bailment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIL\bailment_Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIL\bailment_Main.Designer.cs">
+      <DependentUpon>bailment_Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIL\book.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIL\book.Designer.cs">
+      <DependentUpon>book.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIL\cd_dvd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIL\cd_dvd.Designer.cs">
+      <DependentUpon>cd_dvd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIL\convention.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIL\convention.Designer.cs">
+      <DependentUpon>convention.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIL\convention_Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIL\convention_Main.Designer.cs">
+      <DependentUpon>convention_Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIL\album.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIL\album.Designer.cs">
+      <DependentUpon>album.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIL\DIALOGS\AboutUs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIL\DIALOGS\AboutUs.Designer.cs">
+      <DependentUpon>AboutUs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIL\DIALOGS\get_number.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIL\DIALOGS\get_number.Designer.cs">
+      <DependentUpon>get_number.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIL\DIALOGS\login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIL\DIALOGS\login.Designer.cs">
+      <DependentUpon>login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIL\magazine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIL\magazine.Designer.cs">
+      <DependentUpon>magazine.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIL\main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIL\main.Designer.cs">
+      <DependentUpon>main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="UIL\album.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>album.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIL\bailment.resx">
+      <DependentUpon>bailment.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIL\bailment_Main.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>bailment_Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIL\book.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>book.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIL\cd_dvd.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>cd_dvd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIL\convention.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>convention.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIL\convention_Main.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>convention_Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIL\DIALOGS\AboutUs.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>AboutUs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIL\DIALOGS\get_number.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>get_number.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIL\DIALOGS\login.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIL\magazine.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>magazine.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIL\main.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIL\book_Main.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>book_Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIL\album_Main.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>album_Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIL\cd_dvd_Main.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>cd_dvd_Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIL\magazine_Main.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>magazine_Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIL\map_Main.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>map_Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIL\Options\frm_Reload.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frm_Reload.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIL\part.resx">
+      <DependentUpon>part.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIL\repertory_Main.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>repertory_Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIL\REPORT\album_Frmreport.resx">
+      <DependentUpon>album_Frmreport.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIL\REPORT\bailment_Frmreport.resx">
+      <DependentUpon>bailment_Frmreport.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIL\REPORT\book_Frmreport.resx">
+      <DependentUpon>book_Frmreport.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIL\REPORT\cd_dvd_Frmreport.resx">
+      <DependentUpon>cd_dvd_Frmreport.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIL\resume_Main.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>resume_Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIL\user control.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>user control.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIL\users_Main.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>users_Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIL\map.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>map.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIL\parts_Main.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>parts_Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIL\report_Main.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>report_Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIL\pursuit_bailment.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>pursuit_bailment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIL\repertory.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>repertory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIL\report.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>report.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIL\resume.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>resume.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIL\ret.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ret.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIL\search_report.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>search_report.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIL\user.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>user.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIL\zuncan.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>zuncan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIL\zuncan_Main.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>zuncan_Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="UIL\book_Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIL\book_Main.Designer.cs">
+      <DependentUpon>book_Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIL\album_Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIL\album_Main.Designer.cs">
+      <DependentUpon>album_Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIL\cd_dvd_Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIL\cd_dvd_Main.Designer.cs">
+      <DependentUpon>cd_dvd_Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIL\magazine_Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIL\magazine_Main.Designer.cs">
+      <DependentUpon>magazine_Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIL\map_Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIL\map_Main.Designer.cs">
+      <DependentUpon>map_Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIL\Options\frm_Reload.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIL\Options\frm_Reload.Designer.cs">
+      <DependentUpon>frm_Reload.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIL\part.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIL\part.designer.cs">
+      <DependentUpon>part.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIL\repertory_Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIL\repertory_Main.Designer.cs">
+      <DependentUpon>repertory_Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIL\REPORT\album_Frmreport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIL\REPORT\album_Frmreport.designer.cs">
+      <DependentUpon>album_Frmreport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIL\REPORT\bailment_Frmreport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIL\REPORT\bailment_Frmreport.designer.cs">
+      <DependentUpon>bailment_Frmreport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIL\REPORT\book_Frmreport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIL\REPORT\book_Frmreport.designer.cs">
+      <DependentUpon>book_Frmreport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIL\REPORT\cd_dvd_Frmreport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIL\REPORT\cd_dvd_Frmreport.designer.cs">
+      <DependentUpon>cd_dvd_Frmreport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIL\resume_Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIL\resume_Main.Designer.cs">
+      <DependentUpon>resume_Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIL\user control.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIL\user control.Designer.cs">
+      <DependentUpon>user control.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIL\users_Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIL\users_Main.Designer.cs">
+      <DependentUpon>users_Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIL\map.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIL\map.Designer.cs">
+      <DependentUpon>map.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIL\report_Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIL\report_Main.Designer.cs">
+      <DependentUpon>report_Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIL\parts_Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIL\parts_Main.Designer.cs">
+      <DependentUpon>parts_Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIL\pursuit_bailment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIL\pursuit_bailment.Designer.cs">
+      <DependentUpon>pursuit_bailment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIL\repertory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIL\repertory.Designer.cs">
+      <DependentUpon>repertory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIL\report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIL\report.Designer.cs">
+      <DependentUpon>report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIL\resume.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIL\resume.Designer.cs">
+      <DependentUpon>resume.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIL\ret.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIL\ret.Designer.cs">
+      <DependentUpon>ret.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIL\search_report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIL\search_report.Designer.cs">
+      <DependentUpon>search_report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIL\user.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIL\user.Designer.cs">
+      <DependentUpon>user.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIL\zuncan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIL\zuncan.Designer.cs">
+      <DependentUpon>zuncan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIL\zuncan_Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIL\zuncan_Main.Designer.cs">
+      <DependentUpon>zuncan_Main.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="TextFile1.txt" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

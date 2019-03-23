@@ -1,0 +1,180 @@
+C:\Documents and Settings\Administrator\Desktop\e_1\New Folder\e 3\e nosazi1\e_archive 1\e_archive\obj\Debug\e_archive.exe
+C:\Documents and Settings\Administrator\Desktop\e_1\New Folder\e 3\e nosazi1\e_archive 1\e_archive\obj\Debug\e_archive.pdb
+C:\Documents and Settings\Administrator\Desktop\e_1\New Folder\e 3\e nosazi1\e_archive 1\e_archive\bin\Debug\e_archive.exe
+C:\Documents and Settings\Administrator\Desktop\e_1\New Folder\e 3\e nosazi1\e_archive 1\e_archive\bin\Debug\e_archive.pdb
+C:\Documents and Settings\Administrator\Desktop\e_1\New Folder\e 3\e nosazi1\e_archive 1\e_archive\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\e_1\New Folder\e 3\e nosazi1\e_archive 1\e_archive\obj\Debug\e_archive.UIL.album.resources
+C:\Documents and Settings\Administrator\Desktop\e_1\New Folder\e 3\e nosazi1\e_archive 1\e_archive\obj\Debug\e_archive.UIL.bailment.resources
+C:\Documents and Settings\Administrator\Desktop\e_1\New Folder\e 3\e nosazi1\e_archive 1\e_archive\obj\Debug\e_archive.UIL.bailment_Main.resources
+C:\Documents and Settings\Administrator\Desktop\e_1\New Folder\e 3\e nosazi1\e_archive 1\e_archive\obj\Debug\e_archive.UIL.book.resources
+C:\Documents and Settings\Administrator\Desktop\e_1\New Folder\e 3\e nosazi1\e_archive 1\e_archive\obj\Debug\e_archive.UIL.cd_dvd.resources
+C:\Documents and Settings\Administrator\Desktop\e_1\New Folder\e 3\e nosazi1\e_archive 1\e_archive\obj\Debug\e_archive.UIL.convention.resources
+C:\Documents and Settings\Administrator\Desktop\e_1\New Folder\e 3\e nosazi1\e_archive 1\e_archive\obj\Debug\e_archive.UIL.convention_Main.resources
+C:\Documents and Settings\Administrator\Desktop\e_1\New Folder\e 3\e nosazi1\e_archive 1\e_archive\obj\Debug\e_archive.UIL.get_number.resources
+C:\Documents and Settings\Administrator\Desktop\e_1\New Folder\e 3\e nosazi1\e_archive 1\e_archive\obj\Debug\e_archive.UIL.login.resources
+C:\Documents and Settings\Administrator\Desktop\e_1\New Folder\e 3\e nosazi1\e_archive 1\e_archive\obj\Debug\e_archive.UIL.magazine.resources
+C:\Documents and Settings\Administrator\Desktop\e_1\New Folder\e 3\e nosazi1\e_archive 1\e_archive\obj\Debug\e_archive.main.resources
+C:\Documents and Settings\Administrator\Desktop\e_1\New Folder\e 3\e nosazi1\e_archive 1\e_archive\obj\Debug\e_archive.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\e_1\New Folder\e 3\e nosazi1\e_archive 1\e_archive\obj\Debug\e_archive.UIL.book_Main.resources
+C:\Documents and Settings\Administrator\Desktop\e_1\New Folder\e 3\e nosazi1\e_archive 1\e_archive\obj\Debug\e_archive.UIL.album_Main.resources
+C:\Documents and Settings\Administrator\Desktop\e_1\New Folder\e 3\e nosazi1\e_archive 1\e_archive\obj\Debug\e_archive.UIL.cd_dvd_Main.resources
+C:\Documents and Settings\Administrator\Desktop\e_1\New Folder\e 3\e nosazi1\e_archive 1\e_archive\obj\Debug\e_archive.UIL.magazine_Main.resources
+C:\Documents and Settings\Administrator\Desktop\e_1\New Folder\e 3\e nosazi1\e_archive 1\e_archive\obj\Debug\e_archive.UIL.map_Main.resources
+C:\Documents and Settings\Administrator\Desktop\e_1\New Folder\e 3\e nosazi1\e_archive 1\e_archive\obj\Debug\e_archive.UIL.part.resources
+C:\Documents and Settings\Administrator\Desktop\e_1\New Folder\e 3\e nosazi1\e_archive 1\e_archive\obj\Debug\e_archive.UIL.repertory_Main.resources
+C:\Documents and Settings\Administrator\Desktop\e_1\New Folder\e 3\e nosazi1\e_archive 1\e_archive\obj\Debug\e_archive.UIL.REPORT.album_Frmreport.resources
+C:\Documents and Settings\Administrator\Desktop\e_1\New Folder\e 3\e nosazi1\e_archive 1\e_archive\obj\Debug\e_archive.UIL.REPORT.bailment_Frmreport.resources
+C:\Documents and Settings\Administrator\Desktop\e_1\New Folder\e 3\e nosazi1\e_archive 1\e_archive\obj\Debug\e_archive.UIL.REPORT.book_Frmreport.resources
+C:\Documents and Settings\Administrator\Desktop\e_1\New Folder\e 3\e nosazi1\e_archive 1\e_archive\obj\Debug\e_archive.UIL.REPORT.cd_dvd_Frmreport.resources
+C:\Documents and Settings\Administrator\Desktop\e_1\New Folder\e 3\e nosazi1\e_archive 1\e_archive\obj\Debug\e_archive.UIL.resume_Main.resources
+C:\Documents and Settings\Administrator\Desktop\e_1\New Folder\e 3\e nosazi1\e_archive 1\e_archive\obj\Debug\e_archive.UIL.user_control.resources
+C:\Documents and Settings\Administrator\Desktop\e_1\New Folder\e 3\e nosazi1\e_archive 1\e_archive\obj\Debug\e_archive.UIL.users_Main.resources
+C:\Documents and Settings\Administrator\Desktop\e_1\New Folder\e 3\e nosazi1\e_archive 1\e_archive\obj\Debug\e_archive.UIL.map.resources
+C:\Documents and Settings\Administrator\Desktop\e_1\New Folder\e 3\e nosazi1\e_archive 1\e_archive\obj\Debug\e_archive.UIL.parts_Main.resources
+C:\Documents and Settings\Administrator\Desktop\e_1\New Folder\e 3\e nosazi1\e_archive 1\e_archive\obj\Debug\e_archive.UIL.report_Main.resources
+C:\Documents and Settings\Administrator\Desktop\e_1\New Folder\e 3\e nosazi1\e_archive 1\e_archive\obj\Debug\e_archive.UIL.pursuit_bailment.resources
+C:\Documents and Settings\Administrator\Desktop\e_1\New Folder\e 3\e nosazi1\e_archive 1\e_archive\obj\Debug\e_archive.UIL.repertory.resources
+C:\Documents and Settings\Administrator\Desktop\e_1\New Folder\e 3\e nosazi1\e_archive 1\e_archive\obj\Debug\e_archive.UIL.report.resources
+C:\Documents and Settings\Administrator\Desktop\e_1\New Folder\e 3\e nosazi1\e_archive 1\e_archive\obj\Debug\e_archive.UIL.resume.resources
+C:\Documents and Settings\Administrator\Desktop\e_1\New Folder\e 3\e nosazi1\e_archive 1\e_archive\obj\Debug\e_archive.UIL.ret.resources
+C:\Documents and Settings\Administrator\Desktop\e_1\New Folder\e 3\e nosazi1\e_archive 1\e_archive\obj\Debug\e_archive.UIL.search_report.resources
+C:\Documents and Settings\Administrator\Desktop\e_1\New Folder\e 3\e nosazi1\e_archive 1\e_archive\obj\Debug\e_archive.UIL.user.resources
+C:\Documents and Settings\Administrator\Desktop\e_1\New Folder\e 3\e nosazi1\e_archive 1\e_archive\obj\Debug\e_archive.UIL.zuncan.resources
+C:\Documents and Settings\Administrator\Desktop\e_1\New Folder\e 3\e nosazi1\e_archive 1\e_archive\obj\Debug\e_archive.UIL.zuncan_Main.resources
+C:\Documents and Settings\Administrator\Desktop\e_1\New Folder\e 3\e nosazi1\e_archive 1\e_archive\obj\Debug\e_archive.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive\New Folder\e 3\e nosazi1\e_archive 1\e_archive\obj\Debug\e_archive.exe
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive\New Folder\e 3\e nosazi1\e_archive 1\e_archive\obj\Debug\e_archive.pdb
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive\New Folder\e 3\e nosazi1\e_archive 1\e_archive\bin\Debug\e_archive.exe
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive\New Folder\e 3\e nosazi1\e_archive 1\e_archive\bin\Debug\e_archive.pdb
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive\New Folder\e 3\e nosazi1\e_archive 1\e_archive\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive\New Folder\e 3\e nosazi1\e_archive 1\e_archive\obj\Debug\e_archive.UIL.album.resources
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive\New Folder\e 3\e nosazi1\e_archive 1\e_archive\obj\Debug\e_archive.UIL.bailment.resources
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive\New Folder\e 3\e nosazi1\e_archive 1\e_archive\obj\Debug\e_archive.UIL.bailment_Main.resources
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive\New Folder\e 3\e nosazi1\e_archive 1\e_archive\obj\Debug\e_archive.UIL.book.resources
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive\New Folder\e 3\e nosazi1\e_archive 1\e_archive\obj\Debug\e_archive.UIL.cd_dvd.resources
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive\New Folder\e 3\e nosazi1\e_archive 1\e_archive\obj\Debug\e_archive.UIL.convention.resources
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive\New Folder\e 3\e nosazi1\e_archive 1\e_archive\obj\Debug\e_archive.UIL.convention_Main.resources
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive\New Folder\e 3\e nosazi1\e_archive 1\e_archive\obj\Debug\e_archive.UIL.get_number.resources
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive\New Folder\e 3\e nosazi1\e_archive 1\e_archive\obj\Debug\e_archive.UIL.login.resources
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive\New Folder\e 3\e nosazi1\e_archive 1\e_archive\obj\Debug\e_archive.UIL.magazine.resources
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive\New Folder\e 3\e nosazi1\e_archive 1\e_archive\obj\Debug\e_archive.main.resources
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive\New Folder\e 3\e nosazi1\e_archive 1\e_archive\obj\Debug\e_archive.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive\New Folder\e 3\e nosazi1\e_archive 1\e_archive\obj\Debug\e_archive.UIL.book_Main.resources
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive\New Folder\e 3\e nosazi1\e_archive 1\e_archive\obj\Debug\e_archive.UIL.album_Main.resources
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive\New Folder\e 3\e nosazi1\e_archive 1\e_archive\obj\Debug\e_archive.UIL.cd_dvd_Main.resources
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive\New Folder\e 3\e nosazi1\e_archive 1\e_archive\obj\Debug\e_archive.UIL.magazine_Main.resources
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive\New Folder\e 3\e nosazi1\e_archive 1\e_archive\obj\Debug\e_archive.UIL.map_Main.resources
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive\New Folder\e 3\e nosazi1\e_archive 1\e_archive\obj\Debug\e_archive.UIL.part.resources
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive\New Folder\e 3\e nosazi1\e_archive 1\e_archive\obj\Debug\e_archive.UIL.repertory_Main.resources
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive\New Folder\e 3\e nosazi1\e_archive 1\e_archive\obj\Debug\e_archive.UIL.REPORT.album_Frmreport.resources
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive\New Folder\e 3\e nosazi1\e_archive 1\e_archive\obj\Debug\e_archive.UIL.REPORT.bailment_Frmreport.resources
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive\New Folder\e 3\e nosazi1\e_archive 1\e_archive\obj\Debug\e_archive.UIL.REPORT.book_Frmreport.resources
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive\New Folder\e 3\e nosazi1\e_archive 1\e_archive\obj\Debug\e_archive.UIL.REPORT.cd_dvd_Frmreport.resources
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive\New Folder\e 3\e nosazi1\e_archive 1\e_archive\obj\Debug\e_archive.UIL.resume_Main.resources
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive\New Folder\e 3\e nosazi1\e_archive 1\e_archive\obj\Debug\e_archive.UIL.user_control.resources
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive\New Folder\e 3\e nosazi1\e_archive 1\e_archive\obj\Debug\e_archive.UIL.users_Main.resources
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive\New Folder\e 3\e nosazi1\e_archive 1\e_archive\obj\Debug\e_archive.UIL.map.resources
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive\New Folder\e 3\e nosazi1\e_archive 1\e_archive\obj\Debug\e_archive.UIL.parts_Main.resources
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive\New Folder\e 3\e nosazi1\e_archive 1\e_archive\obj\Debug\e_archive.UIL.report_Main.resources
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive\New Folder\e 3\e nosazi1\e_archive 1\e_archive\obj\Debug\e_archive.UIL.pursuit_bailment.resources
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive\New Folder\e 3\e nosazi1\e_archive 1\e_archive\obj\Debug\e_archive.UIL.repertory.resources
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive\New Folder\e 3\e nosazi1\e_archive 1\e_archive\obj\Debug\e_archive.UIL.report.resources
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive\New Folder\e 3\e nosazi1\e_archive 1\e_archive\obj\Debug\e_archive.UIL.resume.resources
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive\New Folder\e 3\e nosazi1\e_archive 1\e_archive\obj\Debug\e_archive.UIL.ret.resources
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive\New Folder\e 3\e nosazi1\e_archive 1\e_archive\obj\Debug\e_archive.UIL.search_report.resources
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive\New Folder\e 3\e nosazi1\e_archive 1\e_archive\obj\Debug\e_archive.UIL.user.resources
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive\New Folder\e 3\e nosazi1\e_archive 1\e_archive\obj\Debug\e_archive.UIL.zuncan.resources
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive\New Folder\e 3\e nosazi1\e_archive 1\e_archive\obj\Debug\e_archive.UIL.zuncan_Main.resources
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive\New Folder\e 3\e nosazi1\e_archive 1\e_archive\obj\Debug\e_archive.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive 1\FUJAN EArchive 1.1\PROJECT\e nosazi1\obj\Debug\e_archive.exe
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive 1\FUJAN EArchive 1.1\PROJECT\e nosazi1\obj\Debug\e_archive.pdb
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive 1\FUJAN EArchive 1.1\PROJECT\e nosazi1\bin\Debug\e_archive.exe
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive 1\FUJAN EArchive 1.1\PROJECT\e nosazi1\bin\Debug\e_archive.pdb
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive 1\FUJAN EArchive 1.1\PROJECT\e nosazi1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive 1\FUJAN EArchive 1.1\PROJECT\e nosazi1\obj\Debug\e_archive.UIL.album.resources
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive 1\FUJAN EArchive 1.1\PROJECT\e nosazi1\obj\Debug\e_archive.UIL.bailment.resources
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive 1\FUJAN EArchive 1.1\PROJECT\e nosazi1\obj\Debug\e_archive.UIL.bailment_Main.resources
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive 1\FUJAN EArchive 1.1\PROJECT\e nosazi1\obj\Debug\e_archive.UIL.book.resources
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive 1\FUJAN EArchive 1.1\PROJECT\e nosazi1\obj\Debug\e_archive.UIL.cd_dvd.resources
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive 1\FUJAN EArchive 1.1\PROJECT\e nosazi1\obj\Debug\e_archive.UIL.convention.resources
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive 1\FUJAN EArchive 1.1\PROJECT\e nosazi1\obj\Debug\e_archive.UIL.convention_Main.resources
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive 1\FUJAN EArchive 1.1\PROJECT\e nosazi1\obj\Debug\e_archive.UIL.get_number.resources
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive 1\FUJAN EArchive 1.1\PROJECT\e nosazi1\obj\Debug\e_archive.UIL.login.resources
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive 1\FUJAN EArchive 1.1\PROJECT\e nosazi1\obj\Debug\e_archive.UIL.magazine.resources
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive 1\FUJAN EArchive 1.1\PROJECT\e nosazi1\obj\Debug\e_archive.main.resources
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive 1\FUJAN EArchive 1.1\PROJECT\e nosazi1\obj\Debug\e_archive.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive 1\FUJAN EArchive 1.1\PROJECT\e nosazi1\obj\Debug\e_archive.UIL.book_Main.resources
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive 1\FUJAN EArchive 1.1\PROJECT\e nosazi1\obj\Debug\e_archive.UIL.album_Main.resources
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive 1\FUJAN EArchive 1.1\PROJECT\e nosazi1\obj\Debug\e_archive.UIL.cd_dvd_Main.resources
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive 1\FUJAN EArchive 1.1\PROJECT\e nosazi1\obj\Debug\e_archive.UIL.magazine_Main.resources
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive 1\FUJAN EArchive 1.1\PROJECT\e nosazi1\obj\Debug\e_archive.UIL.map_Main.resources
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive 1\FUJAN EArchive 1.1\PROJECT\e nosazi1\obj\Debug\e_archive.UIL.part.resources
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive 1\FUJAN EArchive 1.1\PROJECT\e nosazi1\obj\Debug\e_archive.UIL.repertory_Main.resources
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive 1\FUJAN EArchive 1.1\PROJECT\e nosazi1\obj\Debug\e_archive.UIL.REPORT.album_Frmreport.resources
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive 1\FUJAN EArchive 1.1\PROJECT\e nosazi1\obj\Debug\e_archive.UIL.REPORT.bailment_Frmreport.resources
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive 1\FUJAN EArchive 1.1\PROJECT\e nosazi1\obj\Debug\e_archive.UIL.REPORT.book_Frmreport.resources
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive 1\FUJAN EArchive 1.1\PROJECT\e nosazi1\obj\Debug\e_archive.UIL.REPORT.cd_dvd_Frmreport.resources
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive 1\FUJAN EArchive 1.1\PROJECT\e nosazi1\obj\Debug\e_archive.UIL.resume_Main.resources
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive 1\FUJAN EArchive 1.1\PROJECT\e nosazi1\obj\Debug\e_archive.UIL.user_control.resources
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive 1\FUJAN EArchive 1.1\PROJECT\e nosazi1\obj\Debug\e_archive.UIL.users_Main.resources
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive 1\FUJAN EArchive 1.1\PROJECT\e nosazi1\obj\Debug\e_archive.UIL.map.resources
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive 1\FUJAN EArchive 1.1\PROJECT\e nosazi1\obj\Debug\e_archive.UIL.parts_Main.resources
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive 1\FUJAN EArchive 1.1\PROJECT\e nosazi1\obj\Debug\e_archive.UIL.report_Main.resources
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive 1\FUJAN EArchive 1.1\PROJECT\e nosazi1\obj\Debug\e_archive.UIL.pursuit_bailment.resources
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive 1\FUJAN EArchive 1.1\PROJECT\e nosazi1\obj\Debug\e_archive.UIL.repertory.resources
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive 1\FUJAN EArchive 1.1\PROJECT\e nosazi1\obj\Debug\e_archive.UIL.report.resources
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive 1\FUJAN EArchive 1.1\PROJECT\e nosazi1\obj\Debug\e_archive.UIL.resume.resources
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive 1\FUJAN EArchive 1.1\PROJECT\e nosazi1\obj\Debug\e_archive.UIL.ret.resources
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive 1\FUJAN EArchive 1.1\PROJECT\e nosazi1\obj\Debug\e_archive.UIL.search_report.resources
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive 1\FUJAN EArchive 1.1\PROJECT\e nosazi1\obj\Debug\e_archive.UIL.user.resources
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive 1\FUJAN EArchive 1.1\PROJECT\e nosazi1\obj\Debug\e_archive.UIL.zuncan.resources
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive 1\FUJAN EArchive 1.1\PROJECT\e nosazi1\obj\Debug\e_archive.UIL.zuncan_Main.resources
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive 1\FUJAN EArchive 1.1\PROJECT\e nosazi1\obj\Debug\e_archive.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive 1.2\FUJAN EArchive 1.1\PROJECT\e nosazi1\obj\Debug\e_archive.exe
+C:\Documents and Settings\Administrator\Desktop\FUJAN EArchive 1.2\FUJAN EArchive 1.1\PROJECT\e nosazi1\obj\Debug\e_archive.pdb
+D:\majid desktop\Fujanco 1.5\obj\Debug\e_archive.exe
+D:\majid desktop\Fujanco 1.5\obj\Debug\e_archive.pdb
+D:\majid desktop\Fujanco 1.5\bin\Debug\e_archive.exe
+D:\majid desktop\Fujanco 1.5\bin\Debug\e_archive.pdb
+D:\majid desktop\Fujanco 1.5\obj\Debug\ResolveAssemblyReference.cache
+D:\majid desktop\Fujanco 1.5\obj\Debug\e_archive.UIL.album.resources
+D:\majid desktop\Fujanco 1.5\obj\Debug\e_archive.UIL.bailment.resources
+D:\majid desktop\Fujanco 1.5\obj\Debug\e_archive.UIL.bailment_Main.resources
+D:\majid desktop\Fujanco 1.5\obj\Debug\e_archive.UIL.book.resources
+D:\majid desktop\Fujanco 1.5\obj\Debug\e_archive.UIL.cd_dvd.resources
+D:\majid desktop\Fujanco 1.5\obj\Debug\e_archive.UIL.convention.resources
+D:\majid desktop\Fujanco 1.5\obj\Debug\e_archive.UIL.convention_Main.resources
+D:\majid desktop\Fujanco 1.5\obj\Debug\e_archive.UIL.get_number.resources
+D:\majid desktop\Fujanco 1.5\obj\Debug\e_archive.UIL.login.resources
+D:\majid desktop\Fujanco 1.5\obj\Debug\e_archive.UIL.magazine.resources
+D:\majid desktop\Fujanco 1.5\obj\Debug\e_archive.main.resources
+D:\majid desktop\Fujanco 1.5\obj\Debug\e_archive.Properties.Resources.resources
+D:\majid desktop\Fujanco 1.5\obj\Debug\e_archive.UIL.book_Main.resources
+D:\majid desktop\Fujanco 1.5\obj\Debug\e_archive.UIL.album_Main.resources
+D:\majid desktop\Fujanco 1.5\obj\Debug\e_archive.UIL.cd_dvd_Main.resources
+D:\majid desktop\Fujanco 1.5\obj\Debug\e_archive.UIL.magazine_Main.resources
+D:\majid desktop\Fujanco 1.5\obj\Debug\e_archive.UIL.map_Main.resources
+D:\majid desktop\Fujanco 1.5\obj\Debug\e_archive.UIL.part.resources
+D:\majid desktop\Fujanco 1.5\obj\Debug\e_archive.UIL.repertory_Main.resources
+D:\majid desktop\Fujanco 1.5\obj\Debug\e_archive.UIL.REPORT.album_Frmreport.resources
+D:\majid desktop\Fujanco 1.5\obj\Debug\e_archive.UIL.REPORT.bailment_Frmreport.resources
+D:\majid desktop\Fujanco 1.5\obj\Debug\e_archive.UIL.REPORT.book_Frmreport.resources
+D:\majid desktop\Fujanco 1.5\obj\Debug\e_archive.UIL.REPORT.cd_dvd_Frmreport.resources
+D:\majid desktop\Fujanco 1.5\obj\Debug\e_archive.UIL.resume_Main.resources
+D:\majid desktop\Fujanco 1.5\obj\Debug\e_archive.UIL.user_control.resources
+D:\majid desktop\Fujanco 1.5\obj\Debug\e_archive.UIL.users_Main.resources
+D:\majid desktop\Fujanco 1.5\obj\Debug\e_archive.UIL.map.resources
+D:\majid desktop\Fujanco 1.5\obj\Debug\e_archive.UIL.parts_Main.resources
+D:\majid desktop\Fujanco 1.5\obj\Debug\e_archive.UIL.report_Main.resources
+D:\majid desktop\Fujanco 1.5\obj\Debug\e_archive.UIL.pursuit_bailment.resources
+D:\majid desktop\Fujanco 1.5\obj\Debug\e_archive.UIL.repertory.resources
+D:\majid desktop\Fujanco 1.5\obj\Debug\e_archive.UIL.report.resources
+D:\majid desktop\Fujanco 1.5\obj\Debug\e_archive.UIL.resume.resources
+D:\majid desktop\Fujanco 1.5\obj\Debug\e_archive.UIL.ret.resources
+D:\majid desktop\Fujanco 1.5\obj\Debug\e_archive.UIL.search_report.resources
+D:\majid desktop\Fujanco 1.5\obj\Debug\e_archive.UIL.user.resources
+D:\majid desktop\Fujanco 1.5\obj\Debug\e_archive.UIL.zuncan.resources
+D:\majid desktop\Fujanco 1.5\obj\Debug\e_archive.UIL.zuncan_Main.resources
+D:\majid desktop\Fujanco 1.5\obj\Debug\e_archive.csproj.GenerateResource.Cache
+D:\majid desktop\Fujanco 1.5\obj\Debug\e_archive.UIL.Options.frm_Reload.resources
+D:\majid desktop\Fujanco 1.5\obj\Debug\e_archive.UIL.DIALOGS.AboutUs.resources
